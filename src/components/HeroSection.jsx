@@ -12,7 +12,7 @@ const HeroSection = () => {
                         initial={{x: -100, opacity: 0}} 
                         animate={{x: 0, opacity: 1}} 
                         transition={{duration: 0.2, delay: 0.2}} 
-                        className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl" >Fowad Khan</motion.h1>
+                        className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl" >Your name</motion.h1>
 
                         <motion.span
                         initial={{x: -100, opacity: 0}} 
